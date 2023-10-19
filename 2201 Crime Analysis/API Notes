@@ -1,0 +1,65 @@
+Data Explorer API info
+
+api key for Crime Data Explorer is: 3vyNxjUufgFD2Fzgk2EibgH1571C1uOlcPPqGJRc
+
+URL: https://api.usa.gov/crime/fbi/cde
+
+Boulder county api data:
+    "agency_name": "Boulder County Sheriff's Office"
+    "ori": "CO0070000"
+    
+    "agency_name": "Boulder Police Department"
+    "ori": "CO0070100"
+    
+    "agency_name": "Lafayette Police Department"
+    "ori": "CO0070300"
+    
+    "agency_name": "Longmont Police Department"
+    "ori": "CO0070400"
+    
+    "agency_name": "University of Colorado: Boulder"
+    "ori": "CO0070500"
+    
+    "agency_name": "Louisville Police Department"
+    "ori": "CO0070600"
+    
+    "agency_name": "Nederland Police Department"
+    "ori": "CO0070800"
+    
+Arapahoe county api Data:
+    
+    "agency_name": "Arapahoe County Sheriff's Office"
+    "ori": "CO0030000"
+    
+    "agency_name": "Englewood Police Department"
+    "ori": "CO0030100"
+    
+    "agency_name": "Littleton Police Department"
+    "ori": "CO0030200"
+    
+    "agency_name": "Sheridan Police Department"
+    "ori": "CO0030300"
+    
+    "agency_name": "Glendale Police Department"
+    "ori": "CO0030400"
+    
+    "agency_name": "Cherry Hills Village Police Department"
+    "ori": "CO0030500"
+    
+    "agency_name": "Bow Mar Police Department"
+    "ori": "CO0030600"
+    
+    "agency_name": "Greenwood Village Police Department"
+    "ori": "CO0030700"
+    
+    "agency_name": "Columbine Valley Police Department"
+     "ori": "CO0030800"
+     
+     "agency_name": "Arapahoe Community College"
+     "ori": "CO0030900"
+     
+     "agency_name": "Centennial Police Department"
+     "ori": "CO0031100"
+     
+     
+    
